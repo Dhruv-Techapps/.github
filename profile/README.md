@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://getautoclicker.com/">
-    <img src="https://getautoclicker.com/docs/3.x/assets/brand/bootstrap-social-logo.png" alt="Auto Clicker - AutoFill logo" width="165" height="165">
+    <img src="https://getautoclicker.com/docs/4.x/assets/brand/bootstrap-social-logo.png" alt="Auto Clicker - AutoFill logo" width="165" height="165">
   </a>
 </p>
 

@@ -12,8 +12,4 @@
 
 <p align="center">
   <a href="https://getautoclicker.com/docs/3.x/getting-started/introduction/">Auto Clicker - AutoFill</a>
-  ·
-  <a href="https://getdataentry.com/">Data Entry</a>
-  ·
-  <a href="https://scheduleurl.com/">Schedule URL</a>
 </p>
